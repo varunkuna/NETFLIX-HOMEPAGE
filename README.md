@@ -40,6 +40,5 @@ created a homepage of Netflix using HTML and CSS
             </div>
         </div>
     </div>
-
 </body>
 </html>
