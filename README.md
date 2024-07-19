@@ -24,7 +24,7 @@ created a homepage of Netflix using HTML and CSS
                 <button><a href="https://www.linkedin.com/in/varun-kuna-5a97bb238/">Look my Profile</a></button>
             </div>
         </nav>
-        <div class="title">
+        <div class="NETFLIX">
             <div class="content">
                 <h1><font COLOR="RED"> K.VARUN's </h1><br>
                 <h2>NETFLIX </font></h2><br>
