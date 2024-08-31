@@ -4,7 +4,8 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](https://github.com/varunkuna/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+![image](![netflix-logo](https://github.com/user-attachments/assets/4e88f501-c2d0-45da-ae81-c1531d25439d)
+)
 
 ## Features
 
