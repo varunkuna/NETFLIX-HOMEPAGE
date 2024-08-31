@@ -4,8 +4,9 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
+![image](netflix-logo.png)
 ![image](netflix-bg.jpg)
-)
+
 
 ## Features
 
