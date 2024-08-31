@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](![netflix-logo](https://github.com/user-attachments/assets/4e88f501-c2d0-45da-ae81-c1531d25439d)
+![image](netflix-bg.jpg)
 )
 
 ## Features
