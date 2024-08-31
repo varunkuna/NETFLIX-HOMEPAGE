@@ -1,5 +1,4 @@
-<img src="![netflix-logo](https://github.com/user-attachments/assets/c03048d8-219e-4055-b69e-f4c3b4a06d07)
-" height="450">
+<img src="(https://images.app.goo.gl/S4xRgaPw8dYxJYGDA)" height="450">
 
 1. **Navigation Bar:**
    - The top of the page features a fixed navigation bar with a black background (`#141414`).
