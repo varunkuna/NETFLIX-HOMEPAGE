@@ -1,6 +1,3 @@
-<img src="![pngwing com](https://github.com/user-attachments/assets/1f664203-dc5a-40f9-a282-c18626b75f23)
-" height="450">
-
 1. **Navigation Bar:**
    - The top of the page features a fixed navigation bar with a black background (`#141414`).
    - On the left, the bold, white text "NETFLIX" serves as the logo.
