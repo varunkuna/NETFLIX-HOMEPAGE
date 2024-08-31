@@ -1,4 +1,4 @@
-<img src="(https://images.app.goo.gl/S4xRgaPw8dYxJYGDA)" height="450">
+<img src=""C:\Users\varun\AppData\Local\Temp\bf9a198c-a7b6-4c36-8847-331f216e109b_Netflix -K.varun.zip.09b\Netflix Home Page Code - K.varun\images\netflix-logo.zip" height="450">
 
 1. **Navigation Bar:**
    - The top of the page features a fixed navigation bar with a black background (`#141414`).
